@@ -1,4 +1,5 @@
 AI Resume Review Assistant
+
 An AI-powered web application that analyzes resumes and provides actionable feedback on content, structure, skills, and formatting. Built with Flask, Tailwind CSS, and Google Gemini AI, this tool helps job seekers optimize their resumes for better career opportunities.
 
 🚀 Features:
